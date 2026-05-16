@@ -1,0 +1,19 @@
+
+-----------------------------------------------------------------------------
+------------------------------ SISTEMA DOMOTICO -----------------------------
+-----------------------------------------------------------------------------
+Le operazioni che puoi eseguire con il tuo sistema domotico sono le seguenti: 
+  # set ${DEVICENAME} on
+  # set ${DEVICENAME} off
+  # set ${DEVICENAME} ${START} [${STOP}]
+  # rm ${DEVICENAME}
+  # show
+  # show ${DEVICENAME}
+  # set time ${TIME}
+  # reset time
+  # reset timers
+  # reset all
+  # add
+  # erase ${DEVICENAME}
+Per uscire digitare: exit
+
